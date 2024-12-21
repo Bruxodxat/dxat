@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-
+<html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>xatframe Dark</title>
     <style>
         body {
@@ -519,7 +518,7 @@
             }
         }
     </style>
-&lt;/head&gt;&lt;/body&gt;
+</head>
 <body>
     <div class="cover"></div>
     <div class="logotipo"></div>
@@ -575,13 +574,4 @@
     <div class="snowflake"></div>
     <div class="snowflake"></div>
 
-</body>&lt;/html&gt;
-</div></body></head></html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
+</body></html></!DOCTYPE>
