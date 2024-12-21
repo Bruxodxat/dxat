@@ -8,14 +8,6 @@
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title></title>
 <meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="dxat" />
-<meta property="og:locale" content="pt-BR" />
-<link rel="canonical" href="https://bruxodxat.github.io/dxat/" />
-<meta property="og:url" content="https://bruxodxat.github.io/dxat/" />
-<meta property="og:site_name" content="dxat" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="dxat" />
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","headline":"dxat","name":"dxat","url":"https://bruxodxat.github.io/dxat/"}</script>
 <!-- End Jekyll SEO tag -->
