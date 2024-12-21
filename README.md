@@ -518,7 +518,7 @@
             }
         }
     </style>
-</head></html>
+</head>
 <body>
     <div class="cover"></div>
     <div class="logotipo"></div>
