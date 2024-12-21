@@ -518,7 +518,7 @@
             }
         }
     </style>
-</head></html>
+</head>
 <body>
     <div class="cover"></div>
     <div class="logotipo"></div>
@@ -574,4 +574,4 @@
     <div class="snowflake"></div>
     <div class="snowflake"></div>
 
-</body></html>
+</body></html></style>
