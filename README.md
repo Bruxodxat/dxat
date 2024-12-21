@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="pt-BR">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +9,7 @@
 <title>dxat</title>
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="dxat" />
-<meta property="og:locale" content="en_US" />
+<meta property="og:locale" content="pt-BR" />
 <link rel="canonical" href="https://bruxodxat.github.io/dxat/" />
 <meta property="og:url" content="https://bruxodxat.github.io/dxat/" />
 <meta property="og:site_name" content="dxat" />
