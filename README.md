@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<body>
+    <div class="container-lg px-0 my-0 markdown-body">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>xatframe Dark</title>
