@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="pt-BR">
   <head>
     <meta charset="UTF-8">
@@ -11,12 +12,10 @@
 <meta property="og:locale" content="pt-BR" />
 <link rel="canonical" href="https://bruxodxat.github.io/dxat/" />
 <meta property="og:url" content="https://bruxodxat.github.io/dxat/" />
-<meta property="og:site_name" content="dxat" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="dxat" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"dxat","name":"dxat","url":"https://bruxodxat.github.io/dxat/"}</script>
+
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="/dxat/assets/css/style.css?v=13c7867b1cef0e02570bcfd3ac0b415e25763c70">
