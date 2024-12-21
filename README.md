@@ -170,5 +170,12 @@
     <div class="snowflake"></div>
     <div class="snowflake"></div>
     <div class="snowflake"></div>
-    
+    <div class="snowflake"></div>
+    <div class="snowflake"></div>
+    <div class="snowflake"></div>
+    <div class="snowflake"></div>
+    <div class="snowflake"></div>
+    <div class="snowflake"></div>
+    <div class="snowflake"></div>
+
 </body></html>
