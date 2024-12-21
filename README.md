@@ -21,7 +21,6 @@
             background: transparent;
             width: 770px;
             height: 100vh;
-            float: left;
             top: 0;
             left: calc(50% + 4px);
             transform: translateX(-50%);
@@ -41,9 +40,8 @@
             background-size: contain;
             width: 318px;
             height: 243px;
-            float: right;
-            top: 50%;
             right: 20px;
+            top: 50%;
             transform: translateY(-50%);
             z-index: 0;
         }
@@ -69,7 +67,6 @@
             }
         }
 
-        /* Definindo flocos de neve individuais com tamanhos e posições diferentes */
         .snowflake:nth-child(1) { --size: 1vw; --left-ini: 8vw; --left-end: 6vw; left: 50vw; animation: snowfall 9s linear infinite; animation-delay: -9s; }
         .snowflake:nth-child(2) { --size: 1vw; --left-ini: -8vw; --left-end: -2vw; left: 40vw; animation: snowfall 9s linear infinite; animation-delay: -7s; }
         .snowflake:nth-child(3) { --size: 0.8vw; --left-ini: -9vw; --left-end: -3vw; left: 43vw; animation: snowfall 9s linear infinite; animation-delay: -5s; }
@@ -177,5 +174,6 @@
     <div class="snowflake"></div>
     <div class="snowflake"></div>
     <div class="snowflake"></div>
-
-</body></html>
+    <div class="snowflake"></div>
+</body>
+</html>
