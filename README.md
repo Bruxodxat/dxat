@@ -1,11 +1,9 @@
 <!DOCTYPE html>
-<html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
-
-  <div class="container-lg px-0 my-0 markdown-body">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Bruxo</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>xatframe Dark</title>
     <style>
         body {
             background-color: #1b824a;
@@ -578,11 +576,3 @@
     <div class="snowflake"></div>
 
 </body></html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
