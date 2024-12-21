@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>dxat</title>
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="dxat" />
 <meta property="og:locale" content="pt-BR" />
