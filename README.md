@@ -1,38 +1,6 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title></title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"dxat","name":"dxat","url":"https://bruxodxat.github.io/dxat/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/dxat/assets/css/style.css?v=d164995621bf04653727ab54018282bec638f573">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/dxat/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-0 my-0 markdown-body">
-      
-     
 <html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-<body>
-    <div class="container-lg px-0 my-0 markdown-body">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>xatframe Dark</title>
