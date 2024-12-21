@@ -1,7 +1,48 @@
 <!DOCTYPE html>
-<html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>dxat</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="dxat" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://bruxodxat.github.io/dxat/" />
+<meta property="og:url" content="https://bruxodxat.github.io/dxat/" />
+<meta property="og:site_name" content="dxat" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="dxat" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"dxat","name":"dxat","url":"https://bruxodxat.github.io/dxat/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/dxat/assets/css/style.css?v=13c7867b1cef0e02570bcfd3ac0b415e25763c70">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/dxat/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://bruxodxat.github.io/dxat/">dxat</a></h1>
+      
+
+      <p>&lt;!DOCTYPE html&gt;</p>
+<html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Bruxo</title>
     <style>
         body {
@@ -575,3 +616,11 @@
     <div class="snowflake"></div>
 
 </body></html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
